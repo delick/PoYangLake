@@ -1,6 +1,3 @@
-a# PoYangLake
-Code and Details for PoYangLake
-
 ## Intro
 本脚本把二元回归的模型（VV,VH -> NDVI / VV,VH -> EVI）应用到 Sentinel-1 影像中，得到 Sentinel-1 反演的 EVI, NDVI 影像，并导出。
 
